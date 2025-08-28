@@ -1,6 +1,6 @@
 {
     "name": "json-rules",
-    "version": "1.0.1",
+    "version": "2.0.0",
     "description": "Evaluate logic rules in JSON",
     "homepage": "",
     "author": "Stephen S <webstacker@outlook.com>",
